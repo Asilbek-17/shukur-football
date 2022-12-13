@@ -19,7 +19,7 @@ body { font-family: sans-serif; }
   height: 100vh;
   margin-right: 10px;
   background-color: #fff;
-  background-image: url("../images/football-1-2048.webp");
+  background-image: url("../images/basketball-my-hobby-1-2048.jpeg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -28,48 +28,33 @@ body { font-family: sans-serif; }
 }
 
 .carousel-cell:nth-child(2) {
-  background-image: url("../images/football-2-2048.webp");
+  background-image: url("../images/basketball-my-hobby-2-2048.webp");
 }
 
 .carousel-cell:nth-child(3) {
-  background-image: url("../images/football-3-2048.webp");
+  background-image: url("../images/basketball-my-hobby-3-2048.jpeg");
 }
 
 .carousel-cell:nth-child(4) {
-  background-image: url("../images/football-4-2048.webp");
+  background-image: url("../images/basketball-my-hobby-4-2048.jpeg");
 }
 
 .carousel-cell:nth-child(5) {
-  background-image: url("../images/football-5-2048.webp");
+  background-image: url("../images/basketball-my-hobby-5-2048.jpeg");
 }
 
 .carousel-cell:nth-child(6) {
-  background-image: url("../images/football-6-2048.webp");
+  background-image: url("../images/basketball-my-hobby-6-2048.jpeg");
 }
 
 .carousel-cell:nth-child(7) {
-  background-image: url("../images/football-7-2048.webp");
+  background-image: url("../images/basketball-my-hobby-9-2048.jpeg");
 }
 
 .carousel-cell:nth-child(8) {
-  background-image: url("../images/football-8-2048.webp");
+  background-image: url("../images/basketball-my-hobby-12-2048.jpeg");
 }
 
-.carousel-cell:nth-child(9) {
-  background-image: url("../images/football-9-2048.webp");
-}
-
-.carousel-cell:nth-child(10) {
-  background-image: url("../images/football-10-2048.webp");
-}
-
-.carousel-cell:nth-child(11) {
-  background-image: url("../images/football-12-2048.webp");
-}
-
-.carousel-cell:nth-child(12) {
-  background-image: url("../images/football-13-2048.webp");
-}
 
 /* cell number */
 .carousel-cell:before {
